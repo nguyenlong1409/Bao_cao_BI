@@ -1,2 +1,3 @@
 # Bao_cao_BI
-Kho dữ liệu và kinh doanh thông minh
+Kho dữ liệu và kinh doanh thông minh.
+Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNmZlMDJkNDUtNWMyNy00YzE5LTkxNWMtOGE0Zjc2ZDk4OTI3IiwidCI6IjNkZjFlN2ZiLWE0OTgtNGRjNy05ZWQwLTc1M2Q4MjU2YjI0ZCIsImMiOjEwfQ%3D%3D&fbclid=IwAR2cWvtr9JTSHKIRgZjCUIYOAlPhJBTNDgEDzGIphXSt9jxGmYW_WmpkxgI
